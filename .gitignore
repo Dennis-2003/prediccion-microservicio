@@ -60,3 +60,5 @@ config/local.yaml
 .env
 .env.local
 .env.*.local
+__pycache__/
+outputs/
