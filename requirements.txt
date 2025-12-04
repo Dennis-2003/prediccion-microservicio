@@ -1,0 +1,14 @@
+Flask==3.0.0
+flask-cors==4.0.0
+
+SQLAlchemy==2.0.23
+mysql-connector-python==9.0.0
+
+pandas==2.2.2
+numpy==1.26.0
+prophet==1.1.5
+
+scikit-learn==1.5.2
+joblib==1.4.2
+
+marshmallow==3.22.0

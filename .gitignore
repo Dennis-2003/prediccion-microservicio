@@ -1,0 +1,62 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyCharm
+.idea/
+.ipynb_checkpoints
+
+# VSCode
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Datos y modelos
+*.pkl
+*.h5
+*.joblib
+*.pth
+data/
+models/
+*.csv
+*.parquet
+
+# Logs y caché
+*.log
+.cache/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Configuraciones locales
+config/local.yaml
+.env
+.env.local
+.env.*.local
